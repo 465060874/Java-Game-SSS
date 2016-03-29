@@ -1,0 +1,2 @@
+# Java-Game-SSS
+This is a simple "shooter" game developed as an introduction for game developing in Java. Static background, no fancy menus or effects, the intention was just to practice concepts of painting to the screen, movements, collisions, and dividing entities based in a game environment. Followed the guidance of Yann Braga in a video tutorial and edited/implemented the code myself. It was a fun exercise! SSS stands for "Super Sonic Shooter" ;)
